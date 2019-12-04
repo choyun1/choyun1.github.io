@@ -1,7 +1,6 @@
 ---
-layout: default
-title: About
+layout: page
+title: about
 permalink: /about/
 ---
-Hello world!!!!
-
+Hello world!!!
