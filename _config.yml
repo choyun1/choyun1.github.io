@@ -27,10 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-# theme: cayman
 # theme: minima
-theme: minimal
-# theme: slate
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
