@@ -24,9 +24,9 @@ github_username:  choyun1
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: minima
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
